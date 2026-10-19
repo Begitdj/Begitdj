@@ -1,0 +1,511 @@
+{
+ "key": "f76f2e71",
+ "stars": 2,
+ "contributions": 343,
+ "repos": 33,
+ "followers": 0,
+ "languages": [
+  [
+   "C",
+   1071851483
+  ],
+  [
+   "Python",
+   16533688
+  ],
+  [
+   "Assembly",
+   9607934
+  ],
+  [
+   "Perl",
+   1171482
+  ],
+  [
+   "C++",
+   302118
+  ],
+  [
+   "SmPL",
+   125107
+  ],
+  [
+   "Yacc",
+   119788
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "EnClient_Mrim",
+   "url": "https://github.com/Begitdj/EnClient_Mrim",
+   "text": "EnClinet - это клиент для протокола  сервиса Mail.Ru Agent!",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ReSukiSU",
+   "url": "https://github.com/Begitdj/ReSukiSU",
+   "text": "Kernel-based Android Root Solution,forked from sukisu",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_mt6785",
+   "url": "https://github.com/Begitdj/android_kernel_xiaomi_mt6785",
+   "text": "Add resuki su and backport path_umount",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "SmallFetch",
+   "url": "https://github.com/Begitdj/SmallFetch",
+   "text": "Simple SH scripts",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "fetch"
+   ]
+  },
+  {
+   "name": "NekoBoxForAndroid",
+   "url": "https://github.com/Begitdj/NekoBoxForAndroid",
+   "text": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "WindYM",
+   "url": "https://github.com/Begitdj/WindYM",
+   "text": "WindYM - simple custom Y.M client",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "android",
+    "yandex",
+    "yandex-music",
+    "yandexmusic"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "cve-2019-2215-markw",
+   "url": "https://github.com/Begitdj/cve-2019-2215-markw",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Termux-Killer-and-MkVir-Termux-",
+   "url": "https://github.com/Begitdj/Termux-Killer-and-MkVir-Termux-",
+   "text": "Termux killer This is a simple script that deletes all files Termux and that's it",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "strykerapp",
+   "url": "https://github.com/Begitdj/strykerapp",
+   "text": "Magic tool for pentest from your android device!",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "buildroot_gamestick",
+   "url": "https://github.com/Begitdj/buildroot_gamestick",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "CVE-2026-43499",
+   "url": "https://github.com/Begitdj/CVE-2026-43499",
+   "text": "CVE-2026-43499 PoC",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Zygisk-Il2CppDumper",
+   "url": "https://github.com/Begitdj/Zygisk-Il2CppDumper",
+   "text": "Using Zygisk to dump il2cpp data at runtime",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "WindYM",
+   "url": "https://github.com/Begitdj/WindYM",
+   "text": "WindYM - simple custom Y.M client",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "android",
+    "yandex",
+    "yandex-music",
+    "yandexmusic"
+   ]
+  },
+  {
+   "name": "XbfDecompiler",
+   "url": "https://github.com/Begitdj/XbfDecompiler",
+   "text": "A decompiler for the XAML Binary Format (XBF)",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "XbfAnalyzer",
+   "url": "https://github.com/Begitdj/XbfAnalyzer",
+   "text": "XBF file analyzer",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "ClassiCube",
+   "url": "https://github.com/Begitdj/ClassiCube",
+   "text": "Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "quic-vpn-bypass",
+   "url": "https://github.com/Begitdj/quic-vpn-bypass",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "CVE-2016-5195",
+   "url": "https://github.com/Begitdj/CVE-2016-5195",
+   "text": "CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "badspin",
+   "url": "https://github.com/Begitdj/badspin",
+   "text": "Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "NekoBoxForAndroid",
+   "url": "https://github.com/Begitdj/NekoBoxForAndroid",
+   "text": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_mt6785",
+   "url": "https://github.com/Begitdj/android_kernel_xiaomi_mt6785",
+   "text": "Add resuki su and backport path_umount",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ReSukiSU",
+   "url": "https://github.com/Begitdj/ReSukiSU",
+   "text": "Kernel-based Android Root Solution,forked from sukisu",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Redwood-scarlet-resukisu",
+   "url": "https://github.com/Begitdj/Redwood-scarlet-resukisu",
+   "text": "resuki su",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "begitdj.github.io",
+   "url": "https://github.com/Begitdj/begitdj.github.io",
+   "text": "Just small archive",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "YaGent",
+   "url": "https://github.com/Begitdj/YaGent",
+   "text": "YaGent - Yandex Music 🎶 client for mail ru agent",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "mailru",
+    "mailru-agent",
+    "yandex",
+    "yandex-music",
+    "yandex-music-api"
+   ]
+  },
+  {
+   "name": "SMRA",
+   "url": "https://github.com/Begitdj/SMRA",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "BadAppleBash",
+   "url": "https://github.com/Begitdj/BadAppleBash",
+   "text": "A bash script that runs Bad Apple on the terminal.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Samsungify",
+   "url": "https://github.com/Begitdj/Samsungify",
+   "text": "Use Samsung Apps on your non-Samsung device",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "EnClient_Mrim",
+   "url": "https://github.com/Begitdj/EnClient_Mrim",
+   "text": "EnClinet - это клиент для протокола  сервиса Mail.Ru Agent!",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SmallFetch",
+   "url": "https://github.com/Begitdj/SmallFetch",
+   "text": "Simple SH scripts",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "fetch"
+   ]
+  },
+  {
+   "name": "Alpine-Linux-Termux",
+   "url": "https://github.com/Begitdj/Alpine-Linux-Termux",
+   "text": "Script to install alpine linux in termux using qemu",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "My-Termux-Dotfile",
+   "url": "https://github.com/Begitdj/My-Termux-Dotfile",
+   "text": "My termux dotfile",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Python-Script",
+   "url": "https://github.com/Begitdj/Python-Script",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Convert-to-base64-and-binary",
+   "url": "https://github.com/Begitdj/Convert-to-base64-and-binary",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Repeater",
+   "url": "https://github.com/Begitdj/Repeater",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Begitdj",
+   "url": "https://github.com/Begitdj/Begitdj",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Simple-Game-And-Companion-telegram-bot",
+   "url": "https://github.com/Begitdj/Simple-Game-And-Companion-telegram-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Telegram-Logger-Bot",
+   "url": "https://github.com/Begitdj/Telegram-Logger-Bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SimpleTelegramBot",
+   "url": "https://github.com/Begitdj/SimpleTelegramBot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
